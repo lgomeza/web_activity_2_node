@@ -1,0 +1,23 @@
+{
+  "name": "web_activity_2_node",
+  "version": "1.0.0",
+  "description": "Activity 2 for WEB 2021 course - UniAndes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgomeza/web_activity_2_node.git"
+  },
+  "author": "Luis Gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgomeza/web_activity_2_node/issues"
+  },
+  "homepage": "https://github.com/lgomeza/web_activity_2_node#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
